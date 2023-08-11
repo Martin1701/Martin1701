@@ -1,4 +1,4 @@
-- just a student spending his life coding
+- enjoying the never ending suffering
 
 <!---
 Martin1701/Martin1701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
